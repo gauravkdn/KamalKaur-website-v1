@@ -1,0 +1,25 @@
+# Ignore the node_modules folder
+node_modules/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore environment variables file
+.env
+
+# Ignore backup files
+backup/
+other crap/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+public/images1/
+public/images2/
+
+

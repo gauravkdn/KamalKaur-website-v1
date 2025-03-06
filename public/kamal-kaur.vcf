@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kaur;Kamal;;;
+FN:Kamal Kaur
+ORG:AP Valuations
+TITLE:Principal
+EMAIL;TYPE=personal:contact@kamalkaur.com
+EMAIL;TYPE=work:kkaur@apvaluations.com
+TEL;TYPE=work,voice:+1-416-596-9600
+URL:https://www.kamalkaur.com
+END:VCARD

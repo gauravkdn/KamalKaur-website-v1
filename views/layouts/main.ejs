@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('../partials/head') %> <!-- Corrected path -->
+    <title><%= pageTitle %></title>
+</head>
+
+<body>
+    
+    <main class="main-container">
+
+        <section class="dummy-container1"> 
+            <section class="container container-1">
+                <%- include('../partials/navbar') %>
+            </section>
+        </section>
+
+        <section class="dummy-container2">
+            <%- typeof sectionOne !== 'undefined' ? sectionOne : '' %>  
+        </section>
+
+        <section class="dummy-container-">
+            <%- typeof sectionOne !== 'undefined' ? sectionOne : '' %>  
+        </section>
+
+
+        <%- include('../partials/footer.ejs') %>
+       
+
+    </main>
+
+
+</body>
+</html>
